@@ -42,11 +42,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pankajrautale&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pankajrautale&show_icons=true&theme=tokyonight&cache_seconds=86400" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pankajrautale&layout=compact&theme=tokyonight" />
 </p>
 
----
 
 ## 🔥 Contribution Streak
 
