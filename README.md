@@ -1,23 +1,31 @@
-<h1 align="center">Hi 👋, I'm Pankaj Rautela</h1>
+<!-- ==================== BANNER ==================== -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=200&section=header&text=Pankaj%20Rautela&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%" />
+
+<h1 align="center">Hi 👋, I'm Pankaj</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+Developer;JavaScript+Enthusiast;Always+Learning+New+Things" />
+Frontend Developer • React Developer • JavaScript Enthusiast
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+Developer;JavaScript+Enthusiast;Building+Modern+Web+Apps" />
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 💻 Passionate Frontend Developer  
 🎓 Computer Science Student  
 ⚛️ React.js Enthusiast  
 🌱 Currently learning Advanced React & Performance Optimization  
 🎯 Goal: Become a Professional Frontend Engineer  
-⚡ Fun Fact: I turn coffee ☕ into code  
+⚡ I turn coffee ☕ into code  
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 ### 💻 Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
@@ -28,18 +36,17 @@
 
 ### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
-![HTML](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
 
 ### 🔧 Tools
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
 ![VS Code](https://img.shields.io/badge/VS_Code-000?style=for-the-badge&logo=visualstudiocode)
 ![Figma](https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma)
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Pankajrautale&show_icons=true&theme=tokyonight" />
@@ -51,27 +58,49 @@
 
 ---
 
-## 🔥 Contribution Streak
+# 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Pankajrautale&theme=tokyonight" />
-</p>
+## 🪑 Animated Chair Project
+👉 Live Demo: https://pankajrautale.github.io/Animated-Chair-Project/  
+✨ Interactive UI animation for product showcase  
+⚡ Built using HTML, CSS, JavaScript
 
-
----
-
-## 👀 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pankajrautale&color=blue&style=flat" />
-</p>
+<img src="https://github.com/Pankajrautale/Animated-Chair-Project/raw/main/screenshot.png" width="800"/>
 
 ---
 
-## 🌐 Connect With Me
+## 🎒 Spacekit Project
+👉 Live Demo: https://pankajrautale.github.io/Spacekit-Project/  
+✨ Modern product landing page UI  
+⚡ Responsive design and clean layout
+
+<img src="https://github.com/Pankajrautale/Spacekit-Project/raw/main/screenshot.png" width="800"/>
+
+---
+
+## 👩 Girl Portfolio Project
+👉 Live Demo: https://pankajrautale.github.io/Girl-Portfolio-Project/  
+✨ Personal brand portfolio website UI  
+⚡ Clean design with modern layout
+
+<img src="https://github.com/Pankajrautale/Girl-Portfolio-Project/raw/main/screenshot.png" width="800"/>
+
+---
+
+# 💼 Open For Opportunities
+
+🚀 Actively looking for Frontend Developer roles  
+💻 Skilled in React.js, JavaScript, HTML, CSS  
+📩 Contact me via LinkedIn  
+
+---
+
+# 🌐 Connect With Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/pankaj-rautela-836057140/"><img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/pankaj-rautela-836057140/">
+<img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin" />
+</a>
 </p>
 
 ---
