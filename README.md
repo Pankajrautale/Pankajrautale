@@ -76,14 +76,6 @@ Frontend Developer • React Developer • JavaScript Enthusiast
 
 <img src="https://github.com/Pankajrautale/Spacekit-Project/raw/main/screenshot.png" width="800"/>
 
----
-
-## 👩 Girl Portfolio Project
-👉 Live Demo: https://pankajrautale.github.io/Girl-Portfolio-Project/  
-✨ Personal brand portfolio website UI  
-⚡ Clean design with modern layout
-
-<img src="https://github.com/Pankajrautale/Girl-Portfolio-Project/raw/main/screenshot.png" width="800"/>
 
 ---
 
